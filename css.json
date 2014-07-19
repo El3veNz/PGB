@@ -1,0 +1,39 @@
+{
+    "colors": {
+        "background": "#000000",
+        "chat": {
+            "ambassador": "",
+            "bouncer": "",
+            "cohost": "",
+            "residentdj": "",
+            "host": "",
+            "manager": "",
+            "message": ""
+        }
+    },
+    "css": {
+        "font": [
+        ],
+        "import": [
+        ],
+        "rule": {
+	    }
+    },
+    "images": {
+        "background": "http://i.imgur.com/GZKgCpk.png",
+        "booth": "",
+        "icons": {
+            "bouncer": "",
+            "cohost": "",
+            "host": "",
+            "manager": "",
+            "residentdj": ""
+        },
+        "playback": ""
+    },
+    "rules": {
+        "allowAutorespond": "true",
+        "allowAutowoot": "true",
+	    "allowAutojoin": "true"
+    }
+}
